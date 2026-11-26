@@ -102,7 +102,7 @@
               <OutArgument x:TypeArguments="x:Int32">[Num1]</OutArgument>
             </ui:AssignOperation.To>
             <ui:AssignOperation.Value>
-              <InArgument x:TypeArguments="x:Int32">200</InArgument>
+              <InArgument x:TypeArguments="x:Int32">2000</InArgument>
             </ui:AssignOperation.Value>
           </ui:AssignOperation>
           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
@@ -110,7 +110,7 @@
               <OutArgument x:TypeArguments="x:Int32">[Num2]</OutArgument>
             </ui:AssignOperation.To>
             <ui:AssignOperation.Value>
-              <InArgument x:TypeArguments="x:Int32">300</InArgument>
+              <InArgument x:TypeArguments="x:Int32">3000</InArgument>
             </ui:AssignOperation.Value>
           </ui:AssignOperation>
           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
